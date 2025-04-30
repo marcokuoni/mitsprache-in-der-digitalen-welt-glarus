@@ -62,10 +62,11 @@ Alle Teilnehmenden haben großes Interesse an einer Fortsetzung bekundet. Wir sc
 - **Agenda:** Vertiefung der thematischen Schwerpunkte, Ausarbeitung einfacher Aufklärungs-Materialien
 - **Einladung:** Zu jedem Treffen werden gezielt neue Interessierte eingeladen, um frische Perspektiven einzubringen
 - **Dokumentation:** Die zentralen Erkenntnisse werden jeweils schriftlich festgehalten und allen Teilnehmer:innen zur Verfügung gestellt
+- **Location**: Der Ort wird immer etwas geändert, zur Inspiration und Verbreitung (Tomorrow, Medienhaus, Wortreich, Holästei, usw.)
 - **Kommunikation**: Schriftliches über GitHub: <https://github.com/marcokuoni/mitsprache-in-der-digitalen-welt-glarus> . Events über die Meetup Gruppe: <https://www.meetup.com/mitsprache-in-der-digitalen-welt-glarus/> .
 
 ---
 
 **Fazit:**  
 Das Auftakt-Treffen hat den Grundstein gelegt: Wir verstehen die Dringlichkeit digitaler Mitbestimmung, sehen Open Source als Schlüssel und sind bereit, mit klaren Projektschritten weiterzumachen.
-Voraussichtliches nächstes Treffen findet am Dienstag 03.06.2025 im Medienhaus Zwinglistrasse 6 in Glarus statt.
+Voraussichtliches nächstes Treffen findet am Dienstag 03.06.2025 im Medienhaus Zwinglistrasse 6 in Glarus statt. Die Idee ist es, dass wir einen Grill zur Verfügung stellen und alle ihr Grillgut selbst mitnehmen.
